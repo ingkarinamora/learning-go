@@ -1,2 +1,2 @@
 # learning-go
-Repository for learnin golang 
+Repository for learning golang 
