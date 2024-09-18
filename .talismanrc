@@ -1,4 +1,4 @@
 fileignoreconfig:
 - filename: main.go
-  checksum: b407a1d359f0da8968e05782db49f47254c145b072f5f8271d67369d9df7ca04
+  checksum: 9344b3a74baa9d6a271972fe89c2f4af05e92b092cf729db3ae6238d907ae130
 version: ""
